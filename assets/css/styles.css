@@ -423,6 +423,14 @@ footer p a{
         content: '×';
     }
 
+    .top3-content{
+        padding-top: 0;
+    }
+
+    .menu_margin{
+        top: 0;
+    }
+
 
    
 }
